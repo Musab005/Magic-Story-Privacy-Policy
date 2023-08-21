@@ -24,6 +24,9 @@ Children's Privacy:
 
 Our app is suitable for users of all ages, including children. We do not knowingly collect personal information from individuals under the age of 13. If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at musabumair005@gmail.com, and we will take steps to remove such information.
 
+Account deletion:
+Please contact us at musabumair005@gmail.com and we will delete all data associated with your usage.
+
 Changes to this Privacy Policy:
 
 We reserve the right to modify this Privacy Policy at any time. Any changes will be effective immediately upon posting the updated policy in the app. We encourage you to review this policy periodically for any updates.
