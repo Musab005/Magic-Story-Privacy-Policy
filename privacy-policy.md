@@ -10,11 +10,13 @@ Information We Collect:
 
 We collect and store the following information when you use our app:
 
+Analytics and Diagnostics Data
+
 Full name and frequency of usage. 
 
 How We Use Your Information:
 
-The information helps us understand user behaviour and improve our app.
+The information helps us understand user behaviour and improve our app. We use analytics tools to collect data on app usage and performance. This data includes crash logs and diagnostics, which help us identify and address any issues to provide you with a better experience.
 
 User-Generated Content:
 
