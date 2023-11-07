@@ -20,7 +20,7 @@ The information helps us understand user behaviour and improve our app. We use a
 
 User-Generated Content:
 
-Our app generates images and stories based on user input. While we make efforts to ensure that the content generated is safe and appropriate, we want to emphasize that we do not claim responsibility for any harmful, inappropriate, or offensive content that may be generated. OpenAI's API is designed to detect and prevent harmful content, but errors can occur.
+Our app is powered by OpenAI API. We generate images and stories based on user input. While we make efforts to ensure that the content generated is safe and appropriate, we want to emphasize that we do not claim responsibility for any harmful, inappropriate, or offensive content that may be generated. OpenAI's API is designed to detect and prevent harmful content, but errors can occur.
 
 Children's Privacy:
 
