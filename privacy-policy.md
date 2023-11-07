@@ -12,7 +12,7 @@ We collect and store the following information when you use our app:
 
 Analytics and Diagnostics Data
 
-Full name and frequency of usage. 
+Full name (optional) and frequency of usage. 
 
 How We Use Your Information:
 
