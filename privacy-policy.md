@@ -1,6 +1,6 @@
 Privacy Policy
 
-Last Updated: 22/08/2023
+Last Updated: 26/11/2023
 
 Welcome to Magic Story!
 
@@ -20,7 +20,7 @@ The information helps us understand user behaviour and improve our app. We use a
 
 User-Generated Content:
 
-Our app is powered by OpenAI API. We generate images and stories based on user input. While we make efforts to ensure that the content generated is safe and appropriate, we want to emphasize that we do not claim responsibility for any harmful, inappropriate, or offensive content that may be generated. OpenAI's API is designed to detect and prevent harmful content, but errors can occur.
+Our app is powered by OpenAI API. We generate images and stories based on user input. While we make efforts to ensure that the content generated is safe and appropriate, we want to emphasize that we do not claim responsibility for any harmful, inappropriate, or offensive content that may be generated. OpenAI's API is designed to detect and prevent harmful content, but errors can occur. In the case where harmful or restrictive content may be generated, users can tap the report button that is right next to the generated content. We will utilize user reports to inform content filtering and moderation in our apps.
 
 Children's Privacy:
 
